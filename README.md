@@ -13,6 +13,7 @@
 https://github.com/AbhiD98/HousePricePrediction.git<br/>
 https://github.com/AbhiD98/Movie-Recommender-System<br/>
 https://github.com/AbhiD98/Mask-Detection-Using-CNN<br/>
+https://github.com/AbhiD98/ToDo-Flask-App
 https://github.com/AbhiD98/Number-Plate-Recognition-Using-Easyocr<br/>
 https://github.com/AbhiD98/Digit-Recognition<br/>
 https://github.com/AbhiD98/ReviewsSentimentAnalysis<br/>
